@@ -1,0 +1,21 @@
+{
+    "name": "tenebrix",
+    "displayName": "Tenebrix",
+    "description": "Rest for your eyes",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "**Tenebrix**",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tenebrix-color-theme.json"
+            }
+        ]
+    }
+}
